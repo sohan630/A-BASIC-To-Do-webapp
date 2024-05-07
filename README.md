@@ -1,16 +1,5 @@
-# OIBSIP - Oasis Infobyte Intern Program
-OASIS INFOBYTE offers a variety of website design and development services. Got the chance for 1 month intern of Web development and design.
-There are 3 task given to complete. After completing all tasks, if everything looks fine, the intern will be certified. Glad to be a part of OASIS INFOBYTE intern program.
+ A BASIC TO-DO WEBAPP
+ Develop a basic to do app that enables a user to add dally tasks. The to-do web app must allow users to add new items to a list, and items added to a list must be visible. Also, a user can mark a task "complete" upon its successful completion, and these completed tasks must appear on a separate list, say Completed Tasks.
 
-
-## Task1 - Calculator
-A Calculator created under the virtual internship program of Oasis Infobyte. <br>
-[Live](https://devvsakib.github.io/oasis-infobyte/Task1)
-
-## Task2 - Tribute Page
-A tribute page created under the virtual internship program of Oasis Infobyte. <br>
-[Live](https://devvsakib.github.io/oasis-infobyte/Task2)
-
-## Task3 - Todo webapp
-A TO-DO app created under the virtual internship program of Oasis Infobyte. <br>
-[Live](https://devvsakib.github.io/oasis-infobyte/Task3)
+You can also add a separate section titled Pending Tasks that will list all the tasks that require completion. In such a case, the to-do list will be a union of the Pending Tasks list and the Completed Tasks list. Irrespective of the list, a user must be able to delete or edit tasks from it
+To further increase the web app's complexity or make it more detailed, you can add the date and time when a task is added and/or completed. For demo
